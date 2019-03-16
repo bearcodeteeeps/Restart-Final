@@ -3,7 +3,7 @@ Mobile &amp; web Application gamifying recycling with 🌟 points 🌟 . React (
 ReStart is an mobile application where users take pictures of itens and receive feedback about their recycling status,the specific place to dispose it, item brand and win discount coupons related to that brand. Brands can sign-up on a web platform and create discount coupons to incentive users continuing recycle their products.
 
 Demo Mobile: 
-![MobileApp](/Demo/MobileRestartDemo.mp4)
+[![Watch the video](https://j.gifs.com/71LjgQ.gif)](https://youtu.be/Pkc_TBmWO0A)
 
 Demo Web: 
 ![WebApp](/Demo/WebRestartDemo.mp4)
