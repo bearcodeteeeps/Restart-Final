@@ -6,9 +6,9 @@ Demo Mobile:
 [![Watch the video](https://j.gifs.com/71LjgQ.gif)](https://youtu.be/Pkc_TBmWO0A)
 
 Demo Web: 
-![WebApp](/Demo/WebRestartDemo.mp4)
+[![Watch the video](https://media.giphy.com/media/8c6UQlvjLGIcN4OK75/giphy.gif)](https://youtu.be/yFaRNi4TeVI)
 
-Highlevel Diagram:
+High Level Diagram:
 ![HighLevelDiagram](/Demo/DiagramHLRestart.png)
 
 ReStart mobile app is built for iOS with front-end frameworks such as:
