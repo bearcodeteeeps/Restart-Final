@@ -70,13 +70,13 @@ ReStart uses the following AI API's:
 ## Getting Started
 
 1. Create an empty folder
-3. Install all dependencies for `react native` folder (run `npm install` command)
-4. Install all dependencies for `server` folder (run `bundle install` command)
+3. Install all dependencies for `Restart-Mobile-React-Native` & `Restart-Web-React`folder (run `npm install` command)
+4. Install all dependencies for `Restart-Server-Ruby` folder (run `bundle install` command)
 5. Install Expo on your local computer [Expo Guide](https://expo.io/learn)
 6. Install Expo App on your iPhone [Expo App](https://itunes.apple.com/app/apple-store/id982107779)
-7. Run the rails server using `rails s` command
-8. Run the expo `./react-native` using `npm start` or `expo start` command
-9. Follow expo instructions to load your app ♺!
+7. Run `Restart-Server-Ruby` using `rails s` command
+8. Run `Restart-Mobile-React-native` using `expo start` command & `Restart-Web-React` using `npm start`command
+9. Follow expo instructions to load your app & local host should open in the browser automatically 
 
 
 ## Original Repositories 
@@ -85,4 +85,4 @@ ReStart uses the following AI API's:
 - Web [React](https://github.com/trabnett/ReStart-react-webapp)
 - Server [Server](https://github.com/trabnett/ReStart-rails-api-server)
 
-
+BIG shout out to @PointCodeZero & @trabnett we accomplished so much in >10 days! 
