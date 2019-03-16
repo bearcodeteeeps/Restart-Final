@@ -4,6 +4,14 @@ ReStart is an mobile application where users take pictures of itens and receive 
 
 Demo Mobile: 
 [![Watch the video](https://j.gifs.com/71LjgQ.gif)](https://youtu.be/Pkc_TBmWO0A)
+[![Watch the video](https://j.gifs.com/L78MRW.gif)](https://youtu.be/Pkc_TBmWO0A)
+[![Watch the video](https://j.gifs.com/ZYVqRE.gif)](https://youtu.be/Pkc_TBmWO0A)
+[![Watch the video](https://j.gifs.com/r8Rynk.gif)](https://youtu.be/Pkc_TBmWO0A)
+[![Watch the video](https://j.gifs.com/yorQxw.gif)](https://youtu.be/Pkc_TBmWO0A)
+[![Watch the video](https://j.gifs.com/VAPgK9.gif)](https://youtu.be/Pkc_TBmWO0A)
+[![Watch the video](https://j.gifs.com/JyqGrl.gif)](https://youtu.be/Pkc_TBmWO0A)
+[![Watch the video](https://j.gifs.com/gZL1Pl.gif)](https://youtu.be/Pkc_TBmWO0A)
+
 
 Demo Web: 
 [![Watch the video](https://media.giphy.com/media/8c6UQlvjLGIcN4OK75/giphy.gif)](https://youtu.be/yFaRNi4TeVI)
