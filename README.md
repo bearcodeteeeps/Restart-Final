@@ -1,9 +1,15 @@
-# Restart-Final
-Mpbile &amp; Web Application gamifying recycling. React (web) &amp; React Native (mobile) w/ Ruby on Rails Server
+# Restart-Final ♺
+Mobile &amp; web Application gamifying recycling with 🌟 points 🌟 . React (web) &amp; React Native (mobile) w/ Ruby on Rails Server
 ReStart is an mobile application where users take pictures of itens and receive feedback about their recycling status,the specific place to dispose it, item brand and win discount coupons related to that brand. Brands can sign-up on a web platform and create discount coupons to incentive users continuing recycle their products.
 
+Demo Mobile: 
+![MobileApp](/Demo/MobileRestartDemo.mp4)
+
+Demo Web: 
+![WebApp](/Demo/WebRestartDemo.mp4)
+
 Highlevel Diagram:
-![Welcome](/Demo/DiagramHLRestart.png)
+![HighLevelDiagram](/Demo/DiagramHLRestart.png)
 
 ReStart mobile app is built for iOS with front-end frameworks such as:
 
@@ -22,9 +28,9 @@ ReStart back-end is powered by:
 
 ReStart uses the following AI API's:
 
-![LogoGrab](https://www.logograb.com/developers)
-![Watson](https://www.ibm.com/watson/developer/)
-![Clarifai](https://clarifai.com/)
+-[LogoGrab](https://www.logograb.com/developers)
+-[Watson](https://www.ibm.com/watson/developer/)
+-[Clarifai](https://clarifai.com/)
 
 ## Functionality
 
@@ -62,7 +68,7 @@ ReStart uses the following AI API's:
 6. Install Expo App on your iPhone [Expo App](https://itunes.apple.com/app/apple-store/id982107779)
 7. Run the rails server using `rails s` command
 8. Run the expo `./react-native` using `npm start` or `expo start` command
-9. Follow expo instructions to load your app 
+9. Follow expo instructions to load your app ♺!
 
 
 ## Original Repositories 
