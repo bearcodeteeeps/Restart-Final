@@ -14,7 +14,7 @@ Demo Mobile:
 
 
 Demo Web: 
-[![Watch the video](https://media.giphy.com/media/8c6UQlvjLGIcN4OK75/giphy.gif)](https://youtu.be/yFaRNi4TeVI)
+[![Watch the video](/Demo/WebRestartDemo.gif)](https://youtu.be/yFaRNi4TeVI)
 
 High Level Diagram:
 ![HighLevelDiagram](/Demo/DiagramHLRestart.png)
