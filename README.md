@@ -13,7 +13,7 @@ Demo Mobile:
 [![Watch the video](https://j.gifs.com/gZL1Pl.gif)](https://youtu.be/Pkc_TBmWO0A)
 
 
-Demo Web: 
+Demo Web:
 [![Watch the video](/Demo/WebRestartDemo.gif)](https://youtu.be/yFaRNi4TeVI)
 
 High Level Diagram:
